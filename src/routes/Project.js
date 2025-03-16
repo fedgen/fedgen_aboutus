@@ -7,6 +7,7 @@ function Project() {
     const projects = [
         { title: 'FEDGEN PHIS', image: 'Fedgen-HealthEduApp.jpeg', link: 'https://fedgen.net/phis', description: 'FEDGEN public health information system' },
         { title: 'FEDGEN DataHub', image: 'FEDGEN Datahub.png', description: 'FEDGEN DataHub' },
+        { title: 'FEDLogHub', image: 'object_store.png', link: 'http://165.73.201.7:9001/login', description: 'FEDLoghub' },
         { title: 'FEDGEN CodingHub', image: 'FEDGEN-Codinghub.png', link: 'http://codinghub.fedgen.net', description: 'FEDGEN CodingHub' },
         { title: 'FEDARGOS', image: 'Fegden-monitor.png', link: 'http://monitor.fedgen.net', description: 'FEDGEN Monitor' },
         { title: 'SEC-FEDGEN', image: 'FEDSEC.png', link: 'http://localhost:3000/fedgen-landing-page#/FedSec', description: 'FEDSEC' },
