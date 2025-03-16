@@ -1,5 +1,4 @@
 import React from 'react';
-
 import LeadershipCloud from "../LeadershipCloud.jsx";
 import containerImage from '../images/Home-image.png';
 import database from '../images/database.png';
@@ -11,7 +10,6 @@ import { TiCloudStorage } from "react-icons/ti";
 import { FaTwitter } from "react-icons/fa6";
 import { FaFacebookSquare } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa";
-
 
 import Sweets from '../images/group1.png';
 import Bola from '../images/group3.png';
@@ -32,8 +30,12 @@ import cealogo from '../images/cea-logo.png';
 import oafdlogo from '../images/oafd-logo.png';
 import { alignProperty } from '@mui/material/styles/cssUtils';
 
-
 function Home() {
+    // Define the handleClick function for navigation
+    const handleClick = (url) => {
+        window.open(url, '_blank'); // Opens the URL in a new tab
+    };
+
     return (
         <>
             <div className="Homecentral">
@@ -41,7 +43,23 @@ function Home() {
                 <div className="text-container">
                     <h1>FEDGEN</h1>
                     <p>(Federated GENeral “Omics” Cloud Infrastructure)</p>
+                    <div>
+                        <button
+                            className="roundedButton"
+                            onClick={() => handleClick("https://fedgenhpc.atlassian.net/servicedesk/customer/portal/1")}
+                        >
+                            Request (Testbed & Datacenter) Resources
+                        </button>
+                    </div>
 
+                    <div>
+                        <button
+                            className="roundedButton"
+                            onClick={() => handleClick("https://fedgenhpc.readthedocs.io/en/latest/welcome/About%20FEDGEN.html")}
+                        >
+                            FEDGEN Documentation
+                        </button>
+                    </div>
                 </div>
             </div>
 
@@ -51,15 +69,7 @@ function Home() {
                     The goal of the FEDerated GENeral “Omics” (FEDGEN) research project is to develop ground-breaking research artefacts on federated cloud computing, artificial intelligence and general “omics”  for precision medicine in Africa. The specific objectives are to address critical issues in Africa on research capacity, large-scale research infrastructure, early disease diagnosis, public health education, large scale “omics” data storage/analysis and disease modelling. We are continuously expanding our private High-Performance Computing (HPC) infrastructure to implement the FEDGEN Datacenter and FEDGEN Testbeds towards providing the required infrastructure for the stated specific objectives. These infrastructures are  revolutionising eHealth research in Africa by providing robust platforms for storing and analysing vast amounts of “omics” dataset that underlier malaria, breast and prostate cancers. The cloud AI and advanced computing capabilities enable real-time data processing, allowing researchers to gain rapid insights into complex “omics” information and accelerate the discovery of new treatments and therapies.
                 </p>
 
-                <div className="button-container">
-                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSduT48IQR2iBV35K769Jk1v7xvx3CmOQWTwcKJuJpeG7nYTLw/viewform" className="request-button-link">
-                        <button className="request-button">Request Cloud Resources</button>
-                    </a>
-                </div>
-
                 <br />
-
-
             </div>
 
             <div className="section">
@@ -76,7 +86,7 @@ function Home() {
                     </div>
                     <div className="card">
                         <CiServer size={62} />
-                        <h2>3</h2>
+                        <h2>4</h2>
                         <p>GPU Servers</p>
                     </div>
 
@@ -87,20 +97,14 @@ function Home() {
                     </div>
                     <div className="card">
                         <TiCloudStorage size={60} />
-                        <h2> 41.32TB</h2>
+                        <h2> 36.45 TB</h2>
                         <p>TB of Storage</p>
-                    </div>
-                    <div className="card">
-                        <BsCpuFill size={55} />
-                        <h2>4</h2>
-                        <p>TB of RAM</p>
                     </div>
                 </div>
                 <br />
                 <br />
                 <LeadershipCloud />
             </div>
-
 
             <br />
             <br />
@@ -143,7 +147,6 @@ function Home() {
                 </div>
             </div>
 
-
             <footer className="footer">
                 <div className="footer-content">
                     <div className="footer-logo">
@@ -160,9 +163,7 @@ function Home() {
                         <p>&copy; {new Date().getFullYear()} FEDGEN. All rights reserved.</p>
                     </div>
                 </div>
-
             </footer>
-
         </>
     );
 }
