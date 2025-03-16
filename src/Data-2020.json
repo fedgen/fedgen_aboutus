@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "title":"Experimentations with openStack system logs and support vector machine for an anomaly detection model in a private cloud infrastructure",
+        "img":"https://images.shiksha.com/mediadata/images/articles/1706786380phpVZmW0T.jpeg",
+        "link":"https://ieeexplore.ieee.org/document/9183878"
+    },
+    
+    {   
+        "id":2,
+        "title":"Graphene-Based Biosensor for Early Detection of Iron Deficiency",
+        "img":"https://www.nist.gov/sites/default/files/images/2023/01/24/DNA-biosensor-draft.png",
+        "link":"https://www.mdpi.com/1424-8220/20/13/3688"
+
+    },
+
+    {   
+        "id":3,
+        "title":"Thermal Decomposition of Rice Husk: A Comprehensive Artificial Intelligence Predictive Model",
+        "img":"https://www.researchgate.net/profile/Subhakaran-Singh-Rajaputra/publication/359726384/figure/fig1/AS:1141945023905792@1649272318372/Preparation-of-RHC-through-thermal-decomposition-of-RH.png",
+        "link":"https://link.springer.com/article/10.1007/s10973-019-08915-0"
+
+    }
+    
+
+
+
+
+
+    
+
+]

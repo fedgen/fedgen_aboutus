@@ -1,0 +1,71 @@
+[
+    {
+        "id":1,
+        "title":"Digital Innovations for Post-CoViD-19 Pandemic Recovery",
+        "img":"https://www.un.org/sites/un2.un.org/files/field/image/1583952355.1997.jpg",
+        "link":"https://ieeexplore.ieee.org/document/9519378"
+    },
+    
+    {   
+        "id":2,
+        "title":"Large-Scale Radio Propagation Path Loss Measurements and Predictions in the VHF and UHF Bands",
+        "img":"https://www.antennasdirect.com/blog/wp-content/uploads/2020/09/Graphic_2_780x450_V2b.jpg",
+        "link":"https://www.sciencedirect.com/science/article/pii/S2405844021014018"
+
+    },
+
+    {   
+        "id":3,
+        "title":"Experimentations on the Transmit Power of a Universal Software Radio Peripheral Using GNU Radio Framework and a Handheld RF Explorer",
+        "img":"https://www.bastibl.net/gnuradio-on-android/wlan.png",
+        "link":"https://iopscience.iop.org/article/10.1088/1755-1315/655/1/012006"
+
+    },
+
+    {   
+        "id":4,
+        "title":"Evolution of Artificial Intelligence Programming Languages - a Systematic Literature Review",
+        "img":"https://www.inspiritscholars.com/wp-content/uploads/2022/01/ai-for-kids-1-1.png",
+        "link":"https://thescipub.com/abstract/jcssp.2021.1157.1171"
+
+    },
+
+    {   
+        "id":5,
+        "title":"A Review of Technological Progression from Radiomics to Breathomics for Early Detection of Lung Cancer",
+        "img":"https://www.drjcsuri.com/wp-content/uploads/2022/03/informative-illustration-lung-cancer_1308-48164-1.webp",
+        "link":"https://thescipub.com/abstract/jcssp.2021.1071.1084"
+
+    },
+
+    {   
+        "id":6,
+        "title":"A Review of Evolutionary Trends in Cloud Computing and Applications to the Healthcare Ecosystem",
+        "img":"https://corporatelearning.hms.harvard.edu/sites/default/files/media/EcosystemGraphic.png",
+        "link":"https://www.hindawi.com/journals/acisc/2021/1843671/"
+
+    },
+
+    {   
+        "id":7,
+        "title":"LeafsnapNet: An Experimentally Evolved Deep Learning Model for Recognition of Plant Species based on Leafsnap Image Dataset",
+        "img":"https://miro.medium.com/v2/resize:fit:720/format:webp/1*1cRbS9V8wpGVx0i8XwHgog.png",
+        "link":"https://thescipub.com/abstract/jcssp.2021.349.363"
+
+    },
+
+    {   
+        "id":8,
+        "title":"DeepFacematch: A Convolutional Neural Network Model for Contactless Attendance on e-SIWES Portal",
+        "img":"https://editor.analyticsvidhya.com/uploads/25366Convolutional_Neural_Network_to_identify_the_image_of_a_bird.png",
+        "link":"https://link.springer.com/chapter/10.1007/978-3-030-69143-1_16"
+
+    }
+
+
+
+
+
+    
+
+]

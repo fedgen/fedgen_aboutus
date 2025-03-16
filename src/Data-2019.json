@@ -1,0 +1,53 @@
+[
+    {
+        "id":1,
+        "title":"Face-based Gender recognition Analysis for Nigerians Using CNN",
+        "img":"https://cipit.org/wp-content/uploads/2023/05/Blog-2-image1.jpg",
+        "link":"https://iopscience.iop.org/article/10.1088/1742-6596/1378/3/032014"
+    },
+    
+    {   
+        "id":2,
+        "title":"Advancing PoC Devices for Early Disease Detection using Graphene-based Sensors",
+        "img":"https://ideausher.com/wp-content/uploads/2024/03/AI-in-Early-Disease-Detection-Process-Use-Cases-and-More.webp",
+        "link":"https://iopscience.iop.org/article/10.1088/1742-6596/1378/3/032031"
+
+    },
+
+    {   
+        "id":3,
+        "title":"Dynamic Spectrum Sensing with Automatic Modulation Classification for a Cognitive Radio Enabled NomadicBTS",
+        "img":"https://qualitastech.com/wp-content/uploads/2021/08/IMAGE-ACQUISITION-COMPONENTS.webp",
+        "link":"https://iopscience.iop.org/article/10.1088/1742-6596/1378/4/042092"
+
+    },
+
+    {   
+        "id":4,
+        "title":"A Mini Review of Trends towards Automated and Non-Invasive Techniques for Early Detection of Lung Cancer: From Radiomics through Proteogenomics to Breathomics",
+        "img":"https://www.drugwatch.com/wp-content/uploads/Lung-Cancer-1-640x0-c-default.webp",
+        "link":"https://iopscience.iop.org/article/10.1088/1742-6596/1378/3/032010"
+
+    },
+
+    {   
+        "id":5,
+        "title":"Survey of Periocular Recognition Techniques",
+        "img":"https://www.mdpi.com/applsci/applsci-09-02709/article_deploy/html/images/applsci-09-02709-g001-550.jpg",
+        "link":"http://www.jestr.org/downloads/Volume12Issue5/fulltext241252019.pdf"
+
+    },
+
+    {   
+        "id":6,
+        "title":"The First 1,000 Days: Trends towards Biosensing in Assessing Micronutrient Deficiencies",
+        "img":"https://player.slideplayer.com/13/3882342/data/images/img5.jpg",
+        "link":"https://iopscience.iop.org/article/10.1088/1742-6596/1299/1/012136"
+
+    }
+
+
+
+    
+
+]

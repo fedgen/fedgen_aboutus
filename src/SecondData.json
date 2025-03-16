@@ -1,0 +1,55 @@
+[
+    {
+        "id":1,
+        "title":"FEDARGOS-V1: A Monitoring Architecture for Federated Cloud Computing Infrastructures",
+        "Description":"Monitoring resources in cloud infrastructure, especially in federated environments, is crucial for managing diverse tenant needs efficiently.",
+        "img":"https://th.bing.com/th/id/R.d64bd956f6b7b79563dfead17bde8ac2?rik=cAQEjc9hOFxOLg&riu=http%3a%2f%2f360elearning.com%2fblog%2fwp-content%2fuploads%2f2016%2f08%2f19-08-16.png&ehk=tFbx2aVBCC8QNpAPsv9J9KyZlDuCIv%2bC1f51yZaFE6A%3d&risl=&pid=ImgRaw&r=0",
+        "link":"https://ieeexplore.ieee.org/abstract/document/9997520/"
+    },
+    
+   
+    {   
+        "id":2,
+        "title":"Interference Detection Among Secondary Users Deployed in Television Whitespace",
+        "Description":"TV white space interference affects scalability and service quality, yet existing solutions overlook secondary user interference, prompting our energy-based detection algorithm",
+        "img":"https://th.bing.com/th/id/R.38715daf43187dc2b2785dfef56d643e?rik=m0fU53s4WsmApw&pid=ImgRaw&r=0",
+        "link":"https://link.springer.com/chapter/10.1007/978-3-031-35510-3_39"
+
+    },
+
+    {
+        "id":3,
+        "title":"SecFedIDM-V1: A Secure Federated Intrusion Detection Model with Blockchain and Deep Bidirectional Long Short-Term Memory Network",
+        "Description":"Despite advances in Intrusion Detection Systems using Deep Learning, security challenges remain, especially in federated cloud setups, driving the need for a Secure Federated Intrusion Detection Model.",
+        "img":"https://www.vmware.com/content/dam/digitalmarketing/vmware/en/images/gallery/thumbnails/tn-vmware-overview-of-nsx-distributed-ids.jpg",
+        "link": "https://ieeexplore.ieee.org/abstract/document/10287938"
+    },
+
+    {
+        "id":4,
+        "title":"LogicHouse-v1: a digital game-based learning tool for enhanced teaching of digital electronics in higher education institutions",
+        "Description":"LogicHouse-v1 is a digital game-based learning tool designed to improve the teaching of digital electronics in higher education.",
+        "img":"https://th.bing.com/th/id/R.d64bd956f6b7b79563dfead17bde8ac2?rik=cAQEjc9hOFxOLg&riu=http%3a%2f%2f360elearning.com%2fblog%2fwp-content%2fuploads%2f2016%2f08%2f19-08-16.png&ehk=tFbx2aVBCC8QNpAPsv9J9KyZlDuCIv%2bC1f51yZaFE6A%3d&risl=&pid=ImgRaw&r=0",
+        "link":"https://www.tandfonline.com/doi/full/10.1080/23311916.2024.2322814"
+    },
+
+    {
+        "id":5,
+        "title":"Exploring Fusion of the Face and Voice Modalities Using CNN Features for a Better Performance",
+        "Description":"The topic explores combining CNN features from face and voice modalities to improve performance.",
+        "img":"https://th.bing.com/th/id/OIP.lna8OUhv5wNad6RxryWvCwHaEK?w=300&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7",
+        "link": "https://ieeexplore.ieee.org/abstract/document/10124540"
+    },
+
+    {
+        "id":6,
+        "title":"A Genomic Signal Processing-Based Coronavirus Classification Model Using Deep Learning with Web-Based Console",
+        "Description":"A genomic signal processing-based coronavirus classification model using deep learning, accessible via a web-based console",
+        "img":"https://cdn.educba.com/academy/wp-content/uploads/2020/01/Deep-Learning.jpg",
+        "link":"https://link.springer.com/chapter/10.1007/978-3-031-27524-1_17"
+
+    }
+
+
+
+]
