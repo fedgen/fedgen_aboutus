@@ -1,56 +1,100 @@
 [
+
+    {
+        "id": 1,
+        "title": "Development of a Conditional Generative Adversarial Network Model for Television Spectrum Radio Environment Mapping",
+        "link": "https://ieeexplore.ieee.org/abstract/document/10813343"
+    },
+    {
+        "id": 2,
+        "title": "Predicting Cross-Selling Health Insurance Products Using Machine-Learning Techniques",
+        "link": "https://www.tandfonline.com/doi/full/10.1080/08874417.2024.2395913"
+    },
+    {
+        "id": 3,
+        "title": "Analysis and Measurement of Tuberculin Skin Test Induration Using Deep Neural Network.",
+        "link": "https://research.ebsco.com/c/zrux7c/search/details/ufyotscm6j?db=aci"
+    },
+    {
+        "id": 4,
+        "title": "A Comparative Performance Analysis of Task Scheduling Algorithms in Federated Clouds",
+        "link": "https://ieeexplore.ieee.org/abstract/document/10698416"
+    },
+    {
+        "id": 5,
+        "title": "FedMonitor: An Implementation Architecture for Monitoring of Resources and Events'Notifications on Federated Cloud Computing Infrastructures",
+        "link": "https://ieeexplore.ieee.org/abstract/document/10767468"
+    },
+    {
+        "id": 6,
+        "title": "RadioModRec-l: A Large Scale Radio Frequency Dataset for Automatic Modulation Recognition Research",
+        "link": "https://ieeexplore.ieee.org/abstract/document/10767496"
+    },
+    {
+        "id": 7,
+        "title": "The Applications of Federated Learning Algorithm in the Federated Cloud Environment: A Systematic Review",
+        "link": "https://ieeexplore.ieee.org/abstract/document/10629812"
+    },
+    {
+        "id": 8,
+        "title": "Bridging the Artificial Intelligence Knowledge and Skill Gaps in Africa: a Case of the 3rd Google Tensorflow Bootcamp and FEDGEN Mini-Workshop",
+        "link": "https://ieeexplore.ieee.org/abstract/document/10629895"
+    },
+    {
+        "id": 12,
+        "title": "Deep Reinforcement Learning Applications For Coexistence in Television Whitespace: A Mini-Review",
+        "link": "https://ieeexplore.ieee.org/abstract/document/10629684"
+    },
+    {
+        "id": 13,
+        "title": "3D mmWave MIMO Channel Modeling and Reconstruction for Street Canyon and Highrise Scenarios",
+        "link": "https://ieeexplore.ieee.org/abstract/document/10629820"
+    },
+    
+
     {
         "id": 1,
         "title": "NomadicBTS-2: A Network-in-a-Box with Software-Defined Radio and Web-Based App for Multiband Cellular Communication",
-        "img": "https://i0.wp.com/ke4bfi.com/wp-content/uploads/2023/06/ts7_signals.jpg?fit=1024%2C768&ssl=1",
         "link": "https://journal.uob.edu.bh/handle/123456789/5384"
     },
     {
         "id": 2,
         "title": "A Spectrum Sensing and Allocation Model for Primary User Detection and Interference Mitigation in Television Whitespaces",
-        "img": "https://www.kpperformance.com/Content/Pages/Technical-Articles/TVWS.png",
         "link": "https://www.scopus.com/authid/detail.uri?authorId=36175331700"
     },
     {
         "id": 3,
         "title": "Bridging the Artificial Intelligence Knowledge and Skill Gaps in Africa: a Case of the 3rd Google Tensorflow Bootcamp and FEDGEN Mini-Workshop",
-        "img": "https://www.eu-startups.com/wp-content/uploads/2024/01/AI-min.png",
         "link": " https://ieeexplore.ieee.org/document/10629895"
     },
     {
         "id": 4,
         "title": "Development of an Automated Service Level Agreement Negotiation Framework for SaaS Cloud E-Marketplace",
-        "img": "https://nordcloud.com/wp-content/uploads/2023/12/image-1.png",
         "link": "https://ieeexplore.ieee.org/document/10630070"
     },
     {
         "id": 5,
         "title": "The Applications of Federated Learning Algorithm in the Federated Cloud Environment: A Systematic Review",
-        "img": "https://d3lkc3n5th01x7.cloudfront.net/wp-content/uploads/2024/01/17044114/Federated-learning-1.png",
         "link": "https://ieeexplore.ieee.org/document/10629812"
     },
     {
         "id": 6,
         "title": "3D mmWave MIMO Channel Modeling and Reconstruction for Street Canyon and Highrise Scenarios",
-        "img": "https://in.mathworks.com/discovery/channel-model/_jcr_content/imageParsys/thumbnail.adapt.full.medium.png/1537963964216.png",
         "link": "https://ieeexplore.ieee.org/document/10629820"
     },
     {
         "id": 7,
         "title": "Intra-Datacenter Load Balancing in a Federated Cloud with Throttled Algorithm",
-        "img": "https://miro.medium.com/v2/resize:fit:802/1*EhzAUJCTK_QaL3KXUXTRCA.png",
         "link": "https://ieeexplore.ieee.org/document/10629693"
     },
     {
         "id": 8,
         "title": "Deep Reinforcement Learning Applications For Coexistence in Television Whitespace: A Mini-Review",
-        "img": "https://www.researchgate.net/publication/343036383/figure/fig3/AS:914463767138311@1595036560681/Structural-diagram-of-Deep-Reinforcement-Learning.jpg",
         "link": "https://ieeexplore.ieee.org/document/10629684"
     },
     {
         "id": 9,
         "title": "Homomorphic Encryption for Genomics Data Storage on a Federated Cloud: A Mini Review",
-        "img": "https://www.researchgate.net/publication/320988803/figure/fig2/AS:573069997219845@1513641942645/Different-entities-involved-in-a-genomic-data-computation.png",
         "link": "https://ieeexplore.ieee.org/document/10630232"
     }
 ]

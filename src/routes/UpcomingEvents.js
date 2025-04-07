@@ -6,11 +6,9 @@ function UpcomingEvents() {
 
 
     const Events = [
-        { title: '3RD HIGH PERFORMANCE COMPUTING WORKSHOPS' },
-        { title: 'FEDGEN BOOTCAMP 3.0.' },
-        { title: 'MONTHLY ADVANCED RESEARCH TUTORIALS' },
-
-
+        { title: '3RD HIGH PERFORMANCE COMPUTING WORKSHOP' },
+        { title: 'HPC BOOTCAMP 3.0.' },
+        { title: 'MONTHLY ADVANCED RESEARCH TUTORIALS (25th April, 2025' },
     ];
    
 

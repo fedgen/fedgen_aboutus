@@ -10,6 +10,7 @@ import ThirdData from '../Data-2022.json';
 import FourthData from '../Data-2021.json';
 import FifthData from '../Data-2020.json';
 import SixthData from '../Data-2019.json';
+import SevenData from '../Data-2025.json';
 
 function PublishedArticle() {
     const [activeYear, setActiveYear] = useState('2024'); // Set initial year
@@ -17,6 +18,9 @@ function PublishedArticle() {
 
     useEffect(() => {
         switch (activeYear) {
+            case '2025':
+                setData(SevenData);  // Use the appropriate data for 2024
+                break;
             case '2024':
                 setData(Data);  // Use the appropriate data for 2024
                 break;
@@ -53,6 +57,7 @@ function PublishedArticle() {
             </div>
 
             <nav className='second-link'>
+                <div><Link to="#" onClick={() => setActiveYear('2025')}>2025</Link></div>
                 <div><Link to="#" onClick={() => setActiveYear('2024')}>2024</Link></div>
                 <div><Link to="#" onClick={() => setActiveYear('2023')}>2023</Link></div>
                 <div><Link to="#" onClick={() => setActiveYear('2022')}>2022</Link></div>

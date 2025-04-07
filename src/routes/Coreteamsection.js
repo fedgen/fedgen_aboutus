@@ -21,7 +21,7 @@ const Coreteam = [
   },
   {
     name: "Prof. E. Adetiba",
-    title: "Founding Principal Investigator",
+    title: "Principal Investigator",
     img: Adetiba, // Replace with actual image path
     linkedin: "https://www.linkedin.com/in/emmanuel-adetiba-ph-d-bab79082/",
     scholar: "https://scholar.google.com/citations?user=3LTdUs0AAAAJ&hl=en"

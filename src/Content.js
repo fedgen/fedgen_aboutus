@@ -10,12 +10,17 @@ const Content = ({ data }) => {
                     <Grid item xs={12} sm={6} md={4} key={index}>
                         <Card sx={{ maxWidth: 350 }} style={{ marginLeft: "36px" }}>
                             <CardActionArea>
+                            {/*
                                 <CardMedia
+                               
                                     component="img"
                                     image={result.img}
+                                      
                                     sx={{ height: "200px", width: "100%", objectFit: "cover" }}
                                     alt="Article"
+                              
                                 />
+                                */}
                                 <CardContent>
                                     <Typography
                                         gutterBottom

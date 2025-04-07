@@ -20,6 +20,8 @@ import Adetiba from '../images/group2.jpeg';
 import Uche from '../images/group7.jpg';
 
 import aspmirlogo from '../images/aspmir-logo.png';
+import NIH from '../images/NIH.png';
+import Cubre from '../images/Cubre.png'
 import capiclogo from '../images/capic-logo.png';
 import covenantlogo from '../images/covenant-logo.png';
 import googlelogo from '../images/google-logo.png';
@@ -48,7 +50,7 @@ function Home() {
                             className="roundedButton"
                             onClick={() => handleClick("https://fedgenhpc.atlassian.net/servicedesk/customer/portal/1")}
                         >
-                            Request (Testbed & Datacenter) Resources
+                            FEDGEN User Support
                         </button>
                     </div>
 
@@ -75,33 +77,69 @@ function Home() {
             <div className="section">
                 <h1 className="heading">Our Cloud Resource Capacity</h1>
                 <p className="home-description">
-                    The FEDGEN platforms not only enhances the efficiency of eHealth research but also democratises access to complex hardware and software tools, enabling institutions and researchers, regardless of their locations or local resources, to participate in cutting-edge and large-scale scientific studies. This fosters an inclusive research environment, which is essential for addressing the African diverse health challenges, scientific skills deficit and computational infrastructure. Ultimately, FEDGEN is set to revolutionise federated cloud computing, cloud AI and “omics” research in Africa that will lead to accelerated discoveries, and ultimately better health outcomes for millions of people. Some of the FEGDEN related works that have been published in renowned outlets are found <a href='https://ucnnaji.github.io/fedgen-landing-page/#/PublishedArticle'>here.</a>
-                </p>
+                    The FEDGEN platforms not only enhances the efficiency of eHealth research but also democratises access to complex hardware and software tools, enabling institutions and researchers, regardless of their locations or local resources, to participate in cutting-edge and large-scale scientific studies. This fosters an inclusive research environment, which is essential for addressing the African diverse health challenges, scientific skills deficit and computational infrastructure. Ultimately, FEDGEN is set to revolutionise federated cloud computing, cloud AI and “omics” research in Africa that will lead to accelerated discoveries, and ultimately better health outcomes for millions of people.</p>
+                <br></br>
+                <h1 className="title"> FEDGEN Testbed</h1>
                 <br></br>
                 <div className="card-container">
+
                     <div className="card">
                         <TbCpu size={60} />
-                        <h2>160</h2>
+                        <h2>40</h2>
+                        <p>CPU cores</p>
+                    </div>
+
+
+                    <div className="card">
+                        <HiOutlineServerStack size={61} />
+                        <h2>5</h2>
+                        <p>Compute Nodes</p>
+                    </div>
+                    <div className="card">
+                        <TiCloudStorage size={60} />
+                        <h2> 80 TB</h2>
+                        <p>Memory (RAM)</p>
+                    </div>
+
+                    <div className="card">
+                        <TiCloudStorage size={60} />
+                        <h2> 18 TB</h2>
+                        <p>Storage</p>
+                    </div>
+                </div>
+
+                <br />
+                <br />
+                <h1 className="title"> FEDGEN Data Center</h1>
+                
+                <div className="card-container">
+
+                    <div className="card">
+                        <TbCpu size={60} />
+                        <h2>396</h2>
                         <p>CPU cores</p>
                     </div>
                     <div className="card">
                         <CiServer size={62} />
                         <h2>4</h2>
-                        <p>GPU Servers</p>
+                        <p>GPU nodes</p>
                     </div>
-
                     <div className="card">
                         <HiOutlineServerStack size={61} />
-                        <h2>18</h2>
-                        <p>CPU Servers</p>
+                        <h2>7</h2>
+                        <p>Compute Nodes</p>
                     </div>
                     <div className="card">
                         <TiCloudStorage size={60} />
-                        <h2> 36.45 TB</h2>
-                        <p>TB of Storage</p>
+                        <h2>3.06 TB</h2>
+                        <p>Memory (RAM)</p>
+                    </div>
+                    <div className="card">
+                        <TiCloudStorage size={60} />
+                        <h2>65 TB</h2>
+                        <p>Storage</p>
                     </div>
                 </div>
-                <br />
                 <br />
                 <LeadershipCloud />
             </div>
@@ -125,6 +163,14 @@ function Home() {
                         <img src={googlelogo} alt="Inria" className="partner-logo" style={{ height: '40px', widows: '40px' }} />
                     </div>
 
+                        <div className="partner">
+                            <img src={NIH} alt="NIH" className="partner-logo" style={{ height: '50px', widows: '50px' }} />
+                        </div>
+
+                        <div className="partner">
+                            <img src={Cubre} alt="Cubre" className="partner-logo" style={{ height: '50px', widows: '50px' }} />
+                        </div>
+
                     <div className="partner">
                         <img src={worldbanklogo} alt="Inria" className="partner-logo" style={{ height: '60px', widows: '60px' }} />
                     </div>
@@ -145,6 +191,9 @@ function Home() {
                         <img src={oafdlogo} alt="Inria" className="partner-logo" style={{ height: '50px', widows: '50px' }} />
                     </div>
                 </div>
+
+
+
             </div>
 
             <footer className="footer">
