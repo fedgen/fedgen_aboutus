@@ -36,6 +36,12 @@ export const SidebarData = [
     cName: "nav-text",
   },
   {
+    title: "Gallery",
+    path: "/Gallery",
+    icon: <MdOutlineUpcoming />,
+    cName: "nav-text",
+  },
+  {
     title: "FEDGEN Documentation",
     path: "https://fedgenhpc.readthedocs.io/en/latest/welcome/About FEDGEN.html",
     icon: <MdOutlineUpcoming />,

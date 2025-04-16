@@ -26,6 +26,7 @@ import DataHub from "./routes/DataHub";
 import FedSec from "./routes/FedSec";
 import CloudRAN from "./routes/CloudRAN";
 import EDGEAI from "./routes/EDGE_AI";
+import Gallery from "./routes/Gallery";
 
 const AppLayout = () => (
   <>
@@ -63,10 +64,7 @@ const App = () => (
         <Route path="People" element={<People />} />
         <Route path="PublishedArticle" element={<PublishedArticle />} />
         <Route path="UpcomingEvents" element={<UpcomingEvents />} />
-        <Route path="Datahub" element={<DataHub />} />
-        <Route path="FedSec" element={<FedSec />} />
-        <Route path="CloudRAN" element={<CloudRAN />} />
-        <Route path="EDGEAI" element={<EDGEAI />} />
+        <Route path="Gallery" element={<Gallery />} />
 
       </Route>
     </Routes>

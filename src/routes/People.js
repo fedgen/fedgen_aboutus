@@ -99,13 +99,7 @@ function People() {
 
           </div>
 
-          <div className="student-team-member">
-
-            <p className="role">Uche J. Nnaji(FEDGEN Scholar)</p>
-            <p className="name">Ph.D in Computer Science <br /> Ongoing at Covenant University,<br /> Ota, Nigeria.</p>
-            <p className="name">2023-2027</p>
-
-          </div>
+        
 
 
         </div>
