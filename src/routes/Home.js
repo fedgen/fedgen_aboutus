@@ -85,7 +85,7 @@ function Home() {
 
                     <div className="card">
                         <TbCpu size={60} />
-                        <h2>40</h2>
+                        <h2>384</h2>
                         <p>CPU cores</p>
                     </div>
 
@@ -93,17 +93,17 @@ function Home() {
                     <div className="card">
                         <HiOutlineServerStack size={61} />
                         <h2>5</h2>
-                        <p>Compute Nodes</p>
+                        <p>24</p>
                     </div>
                     <div className="card">
                         <TiCloudStorage size={60} />
-                        <h2> 80 TB</h2>
+                        <h2> 384 GB</h2>
                         <p>Memory (RAM)</p>
                     </div>
 
                     <div className="card">
                         <TiCloudStorage size={60} />
-                        <h2> 18 TB</h2>
+                        <h2> 72 TB</h2>
                         <p>Storage</p>
                     </div>
                 </div>
