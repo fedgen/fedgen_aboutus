@@ -92,8 +92,8 @@ function Home() {
 
                     <div className="card">
                         <HiOutlineServerStack size={61} />
-                        <h2>5</h2>
-                        <p>24</p>
+                        <h2>24</h2>
+                        <p>Compute Nodes</p>
                     </div>
                     <div className="card">
                         <TiCloudStorage size={60} />
